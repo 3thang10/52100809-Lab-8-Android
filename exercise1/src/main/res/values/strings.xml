@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="base_url">http://10.35.16.109:8080/api/</string>
+</resources>
