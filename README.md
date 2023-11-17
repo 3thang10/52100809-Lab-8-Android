@@ -19,6 +19,9 @@ Bài 1:
 ![image](https://github.com/3thang10/52100809-Lab-8-Android/assets/30361534/7ef40a6f-831b-4819-bbea-8a6240fbba24)
 ![image](https://github.com/3thang10/52100809-Lab-8-Android/assets/30361534/ba7fc8c1-887b-4a9d-9107-e96ae26554c7)
 
+
+
+
 Bài 2:
 - mở sender lên nhập tranduykhoi52100809:
   
