@@ -33,6 +33,7 @@ Bài 2:
 
 - receiver:
 
-![Uploading image.png…]()
+![image](https://github.com/3thang10/52100809-Lab-8-Android/assets/30361534/7b9306ea-a7a4-4dd8-816d-cf3069ef16d3)
+
 
 
